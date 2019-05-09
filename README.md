@@ -1,5 +1,5 @@
 # D.D Place
-JavaFx와 JAVA 컬렉션프레임워크 사용을 위주로 개발한 팀 프로젝트 입니다.
+JavaFx와 JAVA 컬렉션 프레임워크 사용에 중점을 두고 개발한 팀 프로젝트 입니다.
 ***
 * Language : Java - JavaFX
 * Framework : Ibatis, log4j, Json-simple
